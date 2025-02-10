@@ -1,3 +1,3 @@
 # Slot Machhine
 
-### This is python script for a slot machine 
+### This is a python script for a slot machine 
